@@ -1,4 +1,4 @@
-|                      [DEV. NOTES]                               |
+|                      [DEV. NOTES]              {20th,june,2024} |
 |                      --Português--                              |
 | <Oi,o jogo que está sendo desenvolvido ainda esta na fase"beta" |
 | no Python,contando com assistencia de IA,quem quiser ajudar     |
