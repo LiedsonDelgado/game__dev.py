@@ -1,23 +1,24 @@
-|                      [DEV. NOTES]              {20th,june,2024} |
+|                       [DEV. NOTES]             {20th,june,2024} |
+|_________________________________________________________________|
 |                      --Português--                              |
 | <Oi,o jogo que está sendo desenvolvido ainda esta na fase"beta" |
 | no Python,contando com assistencia de IA,quem quiser ajudar     |
 | ajude e depois deixe o seu contato.                             |
 | (Instagram ou Twitter)>                                         |
 |                                                                 |
-| !!Mas tenham em conta que ainda esta super                      |
-| incompleto e quem quiser                                        |
-| saber dos planos do projeto só pedir.>                          |
+| !!! Mas tenham em conta que ainda esta super                    |
+| incompleto e quem                                               |
+| quiser saber dos planos do projeto só pedir                     |
 |                                                                 |
-| ############################################################### |
+|#################################################################|
 |                                                                 |
-|                     --English--                                 |
+|                       --English--                               |
 | <Hi there,the game being developed is still in the "beta" phase |
 | in Python,with AI assistance,if you want to help,please help    |
 | and then leave your contact details.                            |
 | (Instagram or Twitter)>                                         |
 |                                                                 |
-| !!!But bear in mind that it                                     |
+| !!! But bear in mind that it                                    |
 | is still very incomplete and anyone                             |
 | who wants to know about the project plans just ask.>            |
 |                                                                 |
