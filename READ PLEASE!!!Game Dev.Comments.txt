@@ -1,4 +1,4 @@
---Portugues--
+--Português--
 <O jogo que está sendo desenvolvido ainda esta na fase"beta"
 no Python,contando com assistencia de IA,puder quiser ajudar
 ajude e depois deixe o seu contato.
