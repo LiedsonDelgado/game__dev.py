@@ -123,3 +123,4 @@ if os.environ.get('DISPLAY'):
 else:
     print("Não foi possivel exportar o GIF para o ambiente sem interface gráfica.")
 
+#...(ISN'T_COMPLETE_YET)
