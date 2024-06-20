@@ -20,6 +20,8 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 FPS = 120
 
+#NPC_BASIC_MOVES
+#NPC_BASIC_CLASSES
 #Classe para o personagem
 class Player(pygame.sprite.Sprite):
     def __init__(self, x, y):
@@ -54,45 +56,13 @@ class Platform(pygame.sprite.Sprite):
         self.rect.y = y
 
 
-# Função para carregar uma imagem
+#Função para carregar uma imagem
 def load_image(filename):
     # Concatena o caminho do diretório 'C:/Users/User/Documento/Documentos UTA-ISERMAR/Visual Studio Code-Projects/sprites' com o nome do arquivo
     filepath = os.path.join('C:/Users/User/Documento/Documentos UTA-ISERMAR/Visual Studio Code-Projects/sprites', filename)
     print(filepath)  # Adiciona esta linha para imprimir o caminho absoluto
     # Carrega a imagem e a converte para o formato otimizado do pygame
     return pygame.image.load(filepath).convert_alpha()
-
-# Configuração da janela do jogo
-screen_width = 800
-screen_height = 600
-screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Meu Jogo")
-
-#NPC_BASIC_MOVES
-#Carrega o sprite do jogador
-player_sprite = load_image('player.png')
-
-#Loop principal do jogo
-running = True
-while running:
-    for event in pygame.event.get():
-        if event.type == pygame.QUIT:
-            running = False
-    
-    #Limpa a tela
-    screen.fill((255, 255, 255))
-    
-    #Desenha o sprite do jogador na tela
-    screen.blit(player_sprite, (100, 100))
-    
-    #Atualiza a tela
-    pygame.display.flip()
-
-#Configuração da janela do jogo
-screen_width = 800
-screen_height = 600
-screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Meu Jogo")
 
 #Desenha o sprite do jogador na tela
     screen.blit(player_sprite, (100, 100))
@@ -120,6 +90,32 @@ def export_to_gif():
             writer.append_data(image)
 
     print(f'Arquivo GIF salvo como {output_file}')
+
+#Configuração da janela do jogo
+screen_width = 800
+screen_height = 600
+screen = pygame.display.set_mode((screen_width, screen_height))
+pygame.display.set_caption("Meu Jogo")
+
+#load_sprite_phase
+#Carrega o sprite do jogador
+player_sprite = load_image('player.png')
+
+#Loop principal do jogo
+running = True
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+    
+    #Limpa a tela
+    screen.fill((255, 255, 255))
+    
+    #Desenha o sprite do jogador na tela
+    screen.blit(player_sprite, (100, 100))
+    
+    #Atualiza a tela
+    pygame.display.flip()
 
 #Verificar se esta em um ambiente gráfico
 if os.environ.get('DISPLAY'):
