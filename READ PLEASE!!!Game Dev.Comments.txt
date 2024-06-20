@@ -1,5 +1,5 @@
                     --Português--
-<O jogo que está sendo desenvolvido ainda esta na fase"beta"
+<Oi,o jogo que está sendo desenvolvido ainda esta na fase"beta"
 no Python,contando com assistencia de IA,quem quiser ajudar
 ajude e depois deixe o seu contato.
 (Instagram ou Twitter)>
@@ -11,7 +11,7 @@ saber dos planos do projeto só pedir.
 ############################################################
 
                     --English--
-<The game being developed is still in the "beta" phase
+<hi there,the game being developed is still in the "beta" phase
 in Python,with AI assistance,if you want to help,please help
 and then leave your contact details.
 (Instagram or Twitter)>
