@@ -11,7 +11,7 @@ saber dos planos do projeto só pedir.
 ############################################################
 
                     --English--
-<hi there,the game being developed is still in the "beta" phase
+<Hi there,the game being developed is still in the "beta" phase
 in Python,with AI assistance,if you want to help,please help
 and then leave your contact details.
 (Instagram or Twitter)>
