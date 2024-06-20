@@ -1,0 +1,13 @@
+Restrictive License Agreement
+
+Copyright (c) [Ano] [Seu Nome]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+and modify the Software, subject to the following conditions:
+
+1. The Software may not be distributed, published, sublicensed, or shared
+   without the explicit written permission of the copyright holder.
+
+2. Any modifications made to the Software must be reported to the copyright
+   holder, but may not be distributed without explicit written
